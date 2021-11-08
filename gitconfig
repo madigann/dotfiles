@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = nmadigan@industrial-integration.com
+	name = Noel Madigan
